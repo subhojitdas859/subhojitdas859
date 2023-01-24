@@ -12,15 +12,17 @@
 </p>
 
 <p align="left">
-- 🔭 I’m currently working on **Upscaling Myself**
+- 🔭 I’m currently working on **open-source Data Projects**
 
 - 🌱 I’m currently learning **AWS Services**
 
-- 💬 Ask me about **SQL , Data Analysis**
+- Previously, I worked as a **Business Analyst**
+
+- 💬 Ask me about **SQL, Data Analysis**
 
 - 📫 How to reach me **subhojitdas859@gmail.com**
 
-- ⚡ Fun fact **I am Shredded**
+- ⚡ Fun fact **I am fluent in 4 languages - English, Hindi, Bengali and German.**
 </p>
 
 
