@@ -1,30 +1,32 @@
+[![MasterHead](enter the link of banner)]
 <h1 align="center">Hi 👋, I'm Subhojit Das</h1>
 <h3 align="center">A Data Analyst professional from India</h3>
+
+<img align="right" alt="emage" width="400" src="enter the link of image">
 
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=subhojitdas859&label=Profile%20views&color=0e75b6&style=flat"
-    alt="subhojitdas859"
-  />
+    alt="subhojitdas859" 
+    />
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=subhojitdas859"
-      alt="subhojitdas859"
-  /></a>
+  - 🔭 I’m currently working on **Buckoid Android App**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **rishavchanda0@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 </p>
 
-- 🔭 I’m currently working on **open-source Data Projects** - 🌱 I’m currently
-learning **AWS Services** - Previously, I worked as a **Business Analyst** - 💬
-Ask me about **SQL, Data Analysis** - 📫 How to reach me
-**subhojitdas859@gmail.com** - ⚡ Fun fact **I am fluent in 4 languages -
-English, Hindi, Bengali and German.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/subhojit-das859/" target="blank">
+  <a href="https://www.linkedin.com/in/subhojit-das859/" target="_blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -32,7 +34,7 @@ English, Hindi, Bengali and German.**
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerrank.com/subhojit859" target="blank">
+  <a href="https://www.hackerrank.com/subhojit859" target="_blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
@@ -233,8 +235,7 @@ English, Hindi, Bengali and German.**
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=subhojitdas859&show_icons=true&locale=en&layout=compact"
-    alt="subhojitdas859"
-  />
+    alt="subhojitdas859"/>
 </p>
 
 <p>
