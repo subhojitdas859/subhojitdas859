@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhojit Das</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A Data Analyst professional from India</h3>
 
 <p align="left">
   <img
