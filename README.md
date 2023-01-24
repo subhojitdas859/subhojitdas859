@@ -1,5 +1,4 @@
 [![MasterHead](enter the link of banner)]
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/ target="_blank" rel="noopener")
 <h1 align="center">Hi 👋, I'm Subhojit Das</h1>
 <h3 align="center">A Data Analyst professional from India</h3>
 
