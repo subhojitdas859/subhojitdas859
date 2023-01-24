@@ -17,13 +17,11 @@
 
 - 🌱 I’m currently learning **AWS Services**
   
-
-
-- Previously, I worked as a **Business Analyst**
+- 📍 Previously, I worked as a **Business Analyst**
 
 - 💬 Ask me about **SQL, Data Analysis**
 
-- 📫 How to reach me **subhojitdas859@gmail.com**
+- 📧 How to reach me **subhojitdas859@gmail.com**
 
 - ⚡ Fun fact **I am fluent in 4 languages - English, Hindi, Bengali and German.**
 </p>
