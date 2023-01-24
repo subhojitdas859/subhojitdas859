@@ -1,16 +1,22 @@
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=subhojitdas859&label=Profile%20views&color=0e75b6&style=flat-square&color=blue""
+    alt="subhojitdas859" /> 
+</p>
 <div id="header" align="center">
   <img src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/1head_img.gif" width="100"/>
 </div>
 
 <h1 align="center">Hey there👋</h1>
 
+<div align="center">
+  <img src="entet" width="600" height="300"/>
+</div>
+
+
 <h3 align="center">A Data Analyst professional from India</h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=subhojitdas859&label=Profile%20views&color=0e75b6&style=flat-square&color=blue""
-    alt="subhojitdas859" /> 
-</p>
+
 
 <img align="right" alt="e-mage" width="400" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/images/image_analyst.gif">
 
@@ -50,7 +56,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
 <p align="left">
     <!--1sql-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
