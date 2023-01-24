@@ -2,21 +2,19 @@
 <p align="left" width="50%" height="10px">
   <img
     src="https://komarev.com/ghpvc/?username=subhojitdas859&label=Profile%20views&color=0e75b6&style=flat-square&color=blue""
-    alt="views-count" /> 
+    alt="views-count" />
 </p>
+<h3 align="right">Loading......</h3>
+
 
 <!--banner-img-->
 <div align="center">
   <img src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/banner_mario.gif" width="100%"/>
 </div>
-<h2 align="center">Hey there👋</h2>
 
 
 <h1 align="left">👨‍💻 About Me :</h1>
 <h4 align="left">I'm a Data Analyst professional</h4>
-
-<!--my img-->
-<img align="right" alt="e-mage" width="90" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/1head_img.gif">
 <p align="left">
   
 - 🧑‍💻 I’m currently contributing on **open-source Data Projects**
@@ -34,7 +32,7 @@
 
 <!--Tech-->
 <h2 align="left">:hammer_and_wrench: Languages and Tools :</h2>
-<img align="right" alt="e-mage" width="90" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/1head_img.gif">
+<img align="right" alt="e-mage" width="100" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/left%20img.gif">
 <p align="left">
     <!--1sql-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -221,6 +219,7 @@
   </a>
 </p>
 
+
 <!--connect-->
 <h2 align="left">:link: Connect with me:</h2>
 <p align="left">
@@ -242,9 +241,9 @@
   /></a>
 </p>
 
+
 <!--stats-->
 <h2 align="left">:fire: Stats :</h2>
-
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhojitdas859&&theme=tokyonight" alt="streak" /></p>
 </div>
