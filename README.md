@@ -1,4 +1,5 @@
 [![MasterHead](enter the link of banner)]
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 <h1 align="center">Hi 👋, I'm Subhojit Das</h1>
 <h3 align="center">A Data Analyst professional from India</h3>
 
@@ -37,7 +38,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerrank.com/subhojit859" :target="_blank" rel="noopener">
+  <a href="https://www.hackerrank.com/subhojit859" target="_blank" rel="noopener">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
