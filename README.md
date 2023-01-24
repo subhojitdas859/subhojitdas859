@@ -1,30 +1,34 @@
+<!--profile views-->
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=subhojitdas859&label=Profile%20views&color=0e75b6&style=flat-square&color=blue""
     alt="subhojitdas859" /> 
 </p>
+
+<!--header img-->
 <div id="header" align="center">
-  <img src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/1head_img.gif" width="100"/>
+  <img src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/1head_img.gif" 
+  width="100" />
 </div>
+<h2 align="center">Hey there👋</h2>
 
-<h1 align="center">Hey there👋</h1>
-
+<!--banner img-->
 <div align="center">
-  <img src="entet" width="600" height="300"/>
+  <img src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/banner_mario.gif" width="100%"/>
 </div>
 
+<h1 align="left">👨‍💻 About Me :</h1>
+<h4 align="left">I'm a Data Analyst professional</h4>
 
-<h3 align="center">A Data Analyst professional from India</h3>
-
-
-
+<!--my img-->
 <img align="right" alt="e-mage" width="400" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/images/image_analyst.gif">
 
+<!--body-->
 <p align="left">
   
-- 🧑‍💻 I’m currently working on **open-source Data Projects**
+- 🧑‍💻 I’m currently contributing on **open-source Data Projects**
 
-- 📖 I’m currently learning **AWS Services**
+- 📖 I’m currently upscaling myself in **AWS Services**
   
 - 📍 Previously, I worked as a **Business Analyst**
 
@@ -32,31 +36,11 @@
 
 - 📧 How to reach me **subhojitdas859@gmail.com**
 
-- 🏋 Fun fact **I am fluent in 4 languages - English, Hindi, Bengali and German.**
+- 🏋 My Hobbies: **Working out, Reading, Travelling, also I am fluent in 4 languages - English, Hindi, Bengali and German.**
 </p>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/subhojit-das859/" target="_blank" rel="noopener">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/subhojit-das859/"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.hackerrank.com/subhojit859" target="_blank" rel="noopener">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="subhojit859"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-<h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
+<!--Tech-->
+<h2 align="left">:hammer_and_wrench: Languages and Tools :</h2>
 <p align="left">
     <!--1sql-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -243,6 +227,29 @@
   </a>
 </p>
 
+<!--connect-->
+<h2 align="left">:link: Connect with me:</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/subhojit-das859/" target="_blank" rel="noopener">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="https://www.linkedin.com/in/subhojit-das859/"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://www.hackerrank.com/subhojit859" target="_blank" rel="noopener">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="subhojit859"
+      height="30"
+      width="40"
+  /></a>
+</p>
+
+<!--stats-->
+<h2 align="left">:fire: My Stats :</h2>
 <p>
   <img
     align="left"
@@ -265,3 +272,4 @@
     alt="subhojitdas859"
   />
 </p>
+
