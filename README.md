@@ -21,9 +21,9 @@
 
 - 📖 I’m currently upscaling myself in **AWS Services**
   
-- 📍 Previously, I worked as a **Business Analyst**
+- 📍 Previously, I worked as a **Business Analyst.**
 
-- 💬 Ask me about **SQL, Data Analysis**
+- 💬 Ask me about **SQL, Data Analysis.**
 
 - 📧 How to reach me **subhojitdas859@gmail.com**
 
