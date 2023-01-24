@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Subhojit Das</h1>
 <h3 align="center">A Data Analyst professional from India</h3>
 
-<img align="right" alt="e-mage" width="400" src="image link">
+<img align="right" alt="e-mage" width="400" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/images/image_analyst.gif">
 
 <p align="left">
   <img
