@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  - 🔭 I’m currently working on **Upscaling Myself**
+- 🔭 I’m currently working on **Upscaling Myself**
 
 - 🌱 I’m currently learning **AWS Services**
 
