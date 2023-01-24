@@ -12,15 +12,15 @@
 </p>
 
 <p align="left">
-  - 🔭 I’m currently working on **Buckoid Android App**
+  - 🔭 I’m currently working on **Upscaling Myself**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **AWS Services**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **SQL , Data Analysis**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **subhojitdas859@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Shredded**
 </p>
 
 
