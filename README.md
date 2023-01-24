@@ -15,6 +15,8 @@
 - 🔭 I’m currently working on **open-source Data Projects**
 
 - 🌱 I’m currently learning **AWS Services**
+  
+- 🔭 I’m currently working on **open-source Data Projects**
 
 - Previously, I worked as a **Business Analyst**
 
