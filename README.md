@@ -251,6 +251,5 @@
 <!--stats-->
 <h2 align="left">:fire: My Stats :</h2>
 
-<div id="header" align="center">
-
-</div>
+<div id="header" align="left">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhojitdas859&theme=vision-friendly-dark)](https://git.io/streak-stats)</div>
