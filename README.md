@@ -1,34 +1,22 @@
 <!--profile views-->
-<div>
-<p align="left">
+<p align="left" width="50%" height="10px">
   <img
     src="https://komarev.com/ghpvc/?username=subhojitdas859&label=Profile%20views&color=0e75b6&style=flat-square&color=blue""
-    alt="subhojitdas859" /> 
+    alt="views-count" /> 
 </p>
-<p align="right">
-  <img
-    src=""
-    alt="subhojitdas859" width=100%/> 
-</p>
-</div>
 
-<!--banner img-->
+<!--banner-img-->
 <div align="center">
   <img src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/banner_mario.gif" width="100%"/>
 </div>
-
-<!--header img-->
-<div id="header" align="center">
-  <img src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/1head_img.gif" 
-  width="100" />
-</div>
 <h2 align="center">Hey there👋</h2>
+
 
 <h1 align="left">👨‍💻 About Me :</h1>
 <h4 align="left">I'm a Data Analyst professional</h4>
 
 <!--my img-->
-<img align="right" alt="e-mage" width="400" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/images/image_analyst.gif">
+<img align="right" alt="e-mage" width="90" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/1head_img.gif">
 <p align="left">
   
 - 🧑‍💻 I’m currently contributing on **open-source Data Projects**
@@ -41,11 +29,12 @@
 
 - 📧 How to reach me **subhojitdas859@gmail.com**
 
-- 🏋 My Hobbies: **Working out, Reading, Travelling, also I am fluent in 4 languages - English, Hindi, Bengali and German.**
+- 🏋 My Hobbies: **Working out, Reading, Travelling.**
 </p>
 
 <!--Tech-->
 <h2 align="left">:hammer_and_wrench: Languages and Tools :</h2>
+<img align="right" alt="e-mage" width="90" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/1head_img.gif">
 <p align="left">
     <!--1sql-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
