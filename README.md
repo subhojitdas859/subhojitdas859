@@ -13,9 +13,9 @@
 
 <p align="left">
   
-- 🔭 I’m currently working on **open-source Data Projects**
+- 🧑‍💻 I’m currently working on **open-source Data Projects**
 
-- 🌱 I’m currently learning **AWS Services**
+- 📖 I’m currently learning **AWS Services**
   
 - 📍 Previously, I worked as a **Business Analyst**
 
@@ -23,7 +23,7 @@
 
 - 📧 How to reach me **subhojitdas859@gmail.com**
 
-- ⚡ Fun fact **I am fluent in 4 languages - English, Hindi, Bengali and German.**
+- 🏋 Fun fact **I am fluent in 4 languages - English, Hindi, Bengali and German.**
 </p>
 
 
