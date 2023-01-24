@@ -1,9 +1,21 @@
 <!--profile views-->
+<div>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=subhojitdas859&label=Profile%20views&color=0e75b6&style=flat-square&color=blue""
     alt="subhojitdas859" /> 
 </p>
+<p align="right">
+  <img
+    src=""
+    alt="subhojitdas859" width=100%/> 
+</p>
+</div>
+
+<!--banner img-->
+<div align="center">
+  <img src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/banner_mario.gif" width="100%"/>
+</div>
 
 <!--header img-->
 <div id="header" align="center">
@@ -12,18 +24,11 @@
 </div>
 <h2 align="center">Hey there👋</h2>
 
-<!--banner img-->
-<div align="center">
-  <img src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/banner_mario.gif" width="100%"/>
-</div>
-
 <h1 align="left">👨‍💻 About Me :</h1>
 <h4 align="left">I'm a Data Analyst professional</h4>
 
 <!--my img-->
 <img align="right" alt="e-mage" width="400" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/images/image_analyst.gif">
-
-<!--body-->
 <p align="left">
   
 - 🧑‍💻 I’m currently contributing on **open-source Data Projects**
@@ -249,10 +254,8 @@
 </p>
 
 <!--stats-->
-<h2 align="left">:fire: My Stats :</h2>
+<h2 align="left">:fire: Stats :</h2>
 
 <div>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subhojitdas859)](https://github.com/subhojitdas859/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhojitdas859&&theme=tokyonight" alt="streak" /></p>
-
-                                                                                                                                 </div>
+</div>
