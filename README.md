@@ -25,7 +25,7 @@ English, Hindi, Bengali and German.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/subhojit-das859/"
+    href="https://www.linkedin.com/in/subhojit-das859/"
     target="blank"
     ><img
       align="center"
