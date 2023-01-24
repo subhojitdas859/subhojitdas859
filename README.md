@@ -250,25 +250,7 @@
 
 <!--stats-->
 <h2 align="left">:fire: My Stats :</h2>
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=subhojitdas859&show_icons=true&locale=en&layout=compact"
-    alt="subhojitdas859"/>
-</p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=subhojitdas859&show_icons=true&locale=en"
-    alt="subhojitdas859"
-  />
-</p>
+<div id="header" align="center">
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=subhojitdas859&"
-    alt="subhojitdas859"
-  />
-</p>
+</div>
