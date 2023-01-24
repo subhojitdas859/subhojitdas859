@@ -252,6 +252,7 @@
 <h2 align="left">:fire: My Stats :</h2>
 
 <div>
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subhojitdas859)](https://github.com/subhojitdas859/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhojitdas859&&theme=tokyonight" alt="streak" /></p>
-                                                                                                                                         </div>
+
+                                                                                                                                 </div>
