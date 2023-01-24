@@ -1,15 +1,18 @@
-[![MasterHead](enter the link of banner)]
-<h1 align="center">Hey there 👋</h1>
-<h3 align="center">A Data Analyst professional from India</h3>
+<div id="header" align="center">
+  <img src="/enter media /1head_img.gif" width="100"/>
+</div>
 
-<img align="right" alt="e-mage" width="400" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/images/image_analyst.gif">
+<h1 align="center">Hey there👋</h1>
+
+<h3 align="center">A Data Analyst professional from India</h3>
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=subhojitdas859&label=Profile%20views&color=0e75b6&style=flat"
-    alt="subhojitdas859" 
-    />
+    src="https://komarev.com/ghpvc/?username=subhojitdas859&label=Profile%20views&color=0e75b6&style=flat-square&color=blue""
+    alt="subhojitdas859" /> 
 </p>
+
+<img align="right" alt="e-mage" width="400" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/images/image_analyst.gif">
 
 <p align="left">
   
