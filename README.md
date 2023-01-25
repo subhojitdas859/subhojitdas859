@@ -181,42 +181,7 @@
       height="40"
     />
   </a> 
-    <!--17kibana-->
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"
-      alt="kibana"
-      width="40"
-      height="40"
-    />
-  </a>
-    <!--18mongodb-->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-    <!--19hadoop-->
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"
-      alt="hadoop"
-      width="40"
-      height="40"
-    />
-  </a>
-    <!--20hive-->
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"
-      alt="hive"
-      width="40"
-      height="40"
-    />
-  </a>
+    
 </p>
 
 
