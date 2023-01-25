@@ -4,7 +4,6 @@
     src="https://komarev.com/ghpvc/?username=subhojitdas859&label=Profile%20views&color=0e75b6&style=flat-square&color=blue""
     alt="views-count" />
 </p>
-<h3 align="right">Loading......</h3>
 
 
 <!--banner-img-->
