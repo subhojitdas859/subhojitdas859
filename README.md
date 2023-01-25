@@ -191,6 +191,7 @@
 
 <!--connect-->
 <h2 align="center">Connect with me</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/subhojit-das859/" target="_blank" rel="noopener">
     <img
