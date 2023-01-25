@@ -19,9 +19,7 @@
   
 - 🧑‍💻 I’m currently contributing on **open-source Data Projects**
 
-- 📖 I’m currently upscaling myself in **AWS Services**
-  
-- 📍 Previously, I worked as a **Business Analyst.**
+- 📖 I’m currently upscaling myself in **AWS Services**  
 
 - 💬 Ask me about **SQL, Data Analysis.**
 
