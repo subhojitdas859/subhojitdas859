@@ -18,7 +18,7 @@
   
 - 🧑‍💻 I’m currently contributing on **open-source Data Projects**
 
-- 📖 I’m currently upscaling myself in **AWS Services**  
+- 📖 I’m currently upscaling myself in **AWS**  
 
 - 💬 Ask me about **SQL, Data Analysis.**
 
