@@ -13,7 +13,7 @@
 
 
 <h1 align="left">👨‍💻 About Me:</h1>
-<h4 align="left">Hello visitor, I am a Data professional</h4>
+<h4 align="left">Hello visitor, I'm a Data professional</h4>
 <p align="left">
   
 - 🧑‍💻 My current tech stack includes: **SQL, Python, Excel, Power BI, Tableau** Additionally, I am also proficient in Web development.
