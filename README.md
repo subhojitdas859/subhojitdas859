@@ -16,7 +16,7 @@
 <h4 align="left">Hello visitor, I am a Data professional</h4>
 <p align="left">
   
-- 🧑‍💻 I’m currently contributing on **open-source Data Projects**
+- 🧑‍💻 My current tech stack includes: **SQL, Python, Excel, Power BI, Tableau** Additionally, I am also proficient in Web development.
 
 - 📖 I’m currently upscaling myself in **AWS**  
 
