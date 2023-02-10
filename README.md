@@ -13,7 +13,7 @@
 
 
 <h1 align="left">👨‍💻 About Me:</h1>
-<h4 align="left">I'm a Data Analyst professional</h4>
+<h4 align="left">Hello visitor, I am a Data professional</h4>
 <p align="left">
   
 - 🧑‍💻 I’m currently contributing on **open-source Data Projects**
