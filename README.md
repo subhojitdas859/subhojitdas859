@@ -29,7 +29,6 @@
 
 <!--Tech-->
 <h2 align="left">:hammer_and_wrench: Languages and Tools:</h2>
-<img align="right" alt="e-mage" width="100" src="https://github.com/subhojitdas859/subhojitdas859/blob/main/image/left%20img.gif">
 <p align="left">
     <!--1sql-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
