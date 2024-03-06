@@ -180,13 +180,6 @@
     
 </p>
 
-
-<!--stats-->
-<h2 align="left">:fire: Stats:</h2>
-<div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhojitdas859&&theme=tokyonight" alt="streak" /></p>
-</div>
-
 <!--connect-->
 <h2 align="center">Connect with me</h2>
 
