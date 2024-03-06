@@ -132,16 +132,7 @@
       height="40"
     />
   </a>
-    <!--12kotlin-->
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-      alt="kotlin"
-      width="40"
-      height="40"
-    />
-  </a>
-    <!--13Cpp-->
+    <!--12Cpp-->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -150,7 +141,7 @@
       height="40"
     />
   </a> 
-    <!--14linux-->
+    <!--13linux-->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -159,7 +150,7 @@
       height="40"
     />
   </a>
-    <!--15git-->
+    <!--14git-->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -168,7 +159,7 @@
       height="40"
     />
   </a>
-    <!--16photoshop-->
+    <!--15photoshop-->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
